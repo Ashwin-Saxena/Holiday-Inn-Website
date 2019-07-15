@@ -1,0 +1,7 @@
+@keyframes slideshow {
+0% {background:url("https://ihg.scene7.com/is/image/ihg/holiday-inn-clark-4065310151-4x3");background-size:100% 100%;}
+25% {background:url("https://thumbnails.trvl-media.com/T-1lwCUNi4KWwxOdRnjvedo3W8U=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/4000000/3160000/3157700/3157693/2f2172a9_z.jpg");background-size:100% 100%;}
+50% {background:url("https://static.dayuse.com/hotels/333-9228/797_533/c8755f8630f6bf821fe7f2e837e4208c-holiday-inn-express-suites-miami-airport-and-intermodal-area.jpeg");background-size:100% 100%;}
+75% {background:url("https://www.ihgplc.com/-/media/newsrelease_placeholder/king-room-1.ashx?h=578&la=en&w=770&hash=2BB4ECBB5807E20FC68247471DBD8C6D");background-size:100% 100%;}
+100%  {background:url("https://thumbnails.trvl-media.com/T-1lwCUNi4KWwxOdRnjvedo3W8U=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/4000000/3160000/3157700/3157693/2f2172a9_z.jpg");background-size:100% 100%;}
+}
